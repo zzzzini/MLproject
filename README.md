@@ -34,7 +34,7 @@
 
 각 채널의 월별 구독자 수 추이 👉🏻 [[social blade]](https://socialblade.com/) 참고
 
-썸네일 이미지 요소 분석 👉🏻 [[Google Cloud Vision API]](https://cloud.google.com/vision?hl=ko) 사용
+썸네일 이미지 요소 분석 👉🏻 [[Google Cloud Vision]](https://cloud.google.com/vision?hl=ko) API 사용
 
 텍스트 감정분석 👉🏻 SKT Brain [[KoBERT]](https://github.com/SKTBrain/KoBERT) 모델, Naver [[CLOVA Sentiment]](https://www.ncloud.com/product/aiService/clovaSentiment) API 사용
 
