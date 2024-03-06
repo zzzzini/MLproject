@@ -44,3 +44,24 @@
 
 ## 📚 참고 문헌
 
+👉🏻 [Practical Assessment, Research, and Evaluation] Improving your data tr our data transformations: Applying the Bo ansformations: Applying the Box-Cox transformation - Jason Osborne
+
+👉🏻 [IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS] Visual Attributes of Thumbnails in Predicting YouTube Brand Channel Views in the Marketing Digitalization Era - Ha Eun Jang, Seung Ho Kim, Jong Seok Jeon and Joo Hee Oh
+
+👉🏻 [ResearchGate] More than meets the eye: The functional components underlying influencer marketing - Colin Campbell
+
+👉🏻 [광고PR실학연구] 인플루언서 유형에 따른 유튜브 동영상 콘텐츠에 대한 소비자 반응 - 정태영, 황장선
+
+👉🏻 [디지털콘텐츠학회논문지 Vol. 22, No. 6] 유튜브 섬네일의 시각표현 요소가 사용자 만족도와 재시청의도에 미치는 영향 연구 - 이승민
+
+👉🏻 [디지털콘텐츠학회논문지 Vol. 23, No. 6] 유튜브 알고리즘 요인 탐색을 위한 역공학설계 연구 : 머신러닝과 딥러닝 응용을 중심으로 - 김철년, 배승주, 하윤수, 이상호
+
+👉🏻 [한국융합학회논문지 제13권 4호] 유튜브 ‘인기급상승’ 장기 노출을 위한 콘텐츠 전략에 관한 연구 - 이민영, 변국도, 최상현
+
+👉🏻 [한국디자인문화학회지 Vol. 27, No. 4] 유튜브 콘텐츠 섬네일의 시각적 표현이 이용자들의 상호작용에 미치는 영향 연구 - 문상호, 강태임
+
+👉🏻 [한국스포츠산업경영학회지 제26권 3호] 유튜브 스포츠 영상 콘텐츠의 소비 결정 요인 : 다층회귀모형을 통한 빅데이터 분석 - 김종호, 김기한
+
+👉🏻 Hand Gesture Recognition Based on Karhunen-Loeve Transform - Joyeeta Singha, Karen Das
+
+👉🏻 Understanding the Characteristics of Internet Short Video Sharing: YouTube as a Case Study - Xu Cheng, Cameron Dale, Jiangchuan Liu
